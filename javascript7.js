@@ -5,7 +5,7 @@
    way of saying that functions are like any other value in JS */
 
 function names() {
-    let names = ['Ahmed', 'Muhammad', 'Bilal', 'Hamed', 'Hamman'];
+    let names = ['Github', 'Google', 'Facebook', 'Reddit', 'Stackoverflow'];
 
     /* .forEach is an array method; it accepts a callback as its only argument */
     /* .forEach calls the callback for each element in the array */
@@ -15,7 +15,7 @@ function names() {
 }
 
 function forEachFunc() {
-    let names = ['Ahmed', 1, 'Bilal', 2, 'Hamman', 3];
+    let names = ['Github', 1, 'google', 2, 'Facebook', 3];
 
     /* .forEach is an array method; it accepts a callback as its only argument */
     /* .forEach calls the callback for each element in the array */

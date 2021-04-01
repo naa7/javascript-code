@@ -45,7 +45,7 @@ function count(string) {
 
 function main() {
     let stringOne = 'Hello world!\nWelcome\there'; 
-    let stringTwo = 'Hi there!\nMy name is\tHim\t\nWhat is your name?';
+    let stringTwo = 'Hi there!\nMy name is\tLoading...\t\nWhat is your name?';
     count(stringOne);
     count(stringTwo);
 }
